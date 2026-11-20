@@ -1,5 +1,5 @@
 # Contribution guidelines
-
+- this request is new for me
 Before making a pull request, please make sure of the following:
 
 - The tutorial(s) you want to add do not already exist (search README.md for the URL and the title).
